@@ -1,4 +1,4 @@
-# My leadership readme/operating manual
+# ryan.README - operating manual
 
 ## My Leadership Philosophy 
 I believe communication is a key to unlock the trust that allows us to continually improve. If we can communicate openly and honestly to build authentic relationships we can do great things. I intend to be clear and never leave anyone guessing, I endevour to be #human in all my interactions and provide a safe environment for us to develop and flourish.
