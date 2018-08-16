@@ -62,7 +62,7 @@ I believe communication is a key to unlock the trust that allows us to continual
 
 ### From your team?
 
-- Opportunity to foster trust. It would be great if you give me the opportunity to build trust and develop a good relationship through open and honst communication. If I fail to do that, that's on me. The opportunity is all I can ask.
+- Opportunity to foster trust. I ask that you give me the opportunity to build trust and develop a good relationship through open and honest communication. If I fail to do that, that's on me. The opportunity is all I can ask.
 - Feedback. I want to know when I've done something to upsets you (or someone else). I'm not going to get grumpy if you tell me I'm doing something bad/wrong/good/stoopid. I geniunely want this information. I can't fix it if I don't know it's broken
 
 
