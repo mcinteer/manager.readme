@@ -1,8 +1,7 @@
 # ryan.README - operating manual
 
 ## My Leadership Philosophy 
-I believe communication is a key to unlock the trust that allows us to continually improve. If we can communicate openly and honestly to build authentic relationships we can do great things. I intend to be clear and never leave anyone guessing, I endevour to be #human in all my interactions and provide a safe environment for us to develop and flourish.
-
+I believe we need to encourage trust within our team so everyone is comfortable challenging and being challenged. We need to do all we can to continuously improve how we do what we do. For example, I want to to see us trying new things all the time. They might fail, but lets give it a go and see if it works. Being comfortable to challenge the current state of play is key to this. I want to create this kind of culture and believe the way we'll get there is through open, honest and transparent communication. I endevour to be kind in all my interactions without shying away from any hard truths. 
 
 ## My answers to [first 1:1 questions](http://larahogan.me/blog/first-one-on-one-questions/ "What to ask in the first 1:1")
 
