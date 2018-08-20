@@ -3,8 +3,6 @@
 ## My Leadership Philosophy 
 I believe we need to encourage trust within our team so everyone is comfortable challenging and being challenged. We need to do all we can to continuously improve how we do what we do. For example, I want to to see us trying new things all the time. They might fail, but lets give it a go and see if it works. Being comfortable to challenge the current state of play is key to this. I want to create this kind of culture and believe the way we'll get there is through open, honest and transparent communication. I endevour to be kind in all my interactions without shying away from any hard truths. 
 
-
-
 ## My expectations of folks who report to me
 I expect buy in on a few levels, firstly I need you to buy into our 1:1's. They work a lot better if we both do some preparation for them, even if you just spend 10 minutes reflecting on the time since our last one and jot down a few thoughts. Further to this, please do raise any challenges or problems you are facing. I want to know about these opportunities to improve.
 
@@ -16,7 +14,7 @@ I expect you to tell me about the things you would like to do. For example, if y
 
 
 ## What you can expect of me as your manager
-My default cadence for 1:1's is every 2 weeks, this might be too much or not enough for you. The cadence of these is dictated by you, if you want them more or less frequently, let me know and we'll make it so. My only caveat is that I'm not comfortable with more than a month passing between 1:1's.
+My default cadence for 1:1's is every 2 weeks, this might be too much or not enough for you. If you want them more or less frequently, let me know and we'll make it so.
 
 I intend to communicate clearly and never leave you thinking about what I might actually mean. I don't want you to make assumptions about what I've said. If anything is unclear, please ask questions because it will be a mistake on my part and I will try and clear it up.
 
