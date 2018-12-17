@@ -1,7 +1,7 @@
 # ryan.README - operating manual
 
 ## My Leadership Philosophy 
-I believe we need to encourage trust within our team so everyone is comfortable challenging and being challenged. We need to do all we can to continuously improve how we do what we do. For example, I want to to see us trying new things all the time. They might fail, but lets give it a go and see if it works. Being comfortable to challenge the current state of play is key to this. I want to create this kind of culture and believe the way we'll get there is through open, honest and transparent communication. I endevour to be kind in all my interactions without shying away from any hard truths. 
+I believe we need to encourage trust within our team so everyone is comfortable challenging and being challenged. We need to do all we can to continuously improve how we do what we do. For example, I want to see us trying new things all the time. They might fail, but lets give it a go and see if it works. Being comfortable to challenge the current state of play is key to this. I want to create this kind of culture and believe the way we'll get there is through open, honest and transparent communication. I endevour to be kind in all my interactions without shying away from any hard truths. 
 
 ## My expectations of folks who report to me
 I expect buy in on a few levels, firstly I need you to buy into our 1:1's. They work a lot better if we both do some preparation for them, even if you just spend 10 minutes reflecting on the time since our last one and jot down a few thoughts. Further to this, please do raise any challenges or problems you are facing. I want to know about these opportunities to improve.
