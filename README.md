@@ -61,13 +61,12 @@ I will provide you with an environment that encourages constructive thinking in 
 
 ### What are your goals for this year? And for the next 3 months?
 
-- Lets start with the next three months. Being new to this role, I'd like to settle into being the Team Lead. To me that means a number of things, for example:
-	- Being comfortable leading and facilitating team discussions;
-	- Presenting ideas to the team and externally, and;
-	- Getting to know what makes you tick and finding out how I can assist. 
-- I'd like to look back in three months time and be able to say that I've helped our team try new things, fail, succeed, and try something new again.
-- I don't expect to do much hands on Engineering over the next 3 months. I want to concentrate on getting the team firing on all cylinders and helping you.
-- Looking out to the rest of the year, I'd like to get back to engineering. I don't ever want to stop crafting this skill.
+- Lets start with the next three months. We've grown and evolved a lot over the last 18 months so there are a few things I'd like to concentrate on in the short term:
+	- Maintaining a high level of communication and awareness across the pods
+	- Providing you with the right level of support. I want you to be challenged but feel supported.
+	- I want to lend a hand and help the wider Platform Engineering group (and Xero) succeed.
+
+- Looking out to the rest of the year and beyond - I want to continue to grow our team so that we can accomodate more of the asks from around the business without the team taking on more than we can reasonably achieve.
 - One main goal I want to achieve is to remove distractions and blockers for our team to allow us to build, maintain and support the best systems we can.
 - I'd also like to improve the communication our team has, both internally amongst ourselves and externally. It'd be great to be able to share some of the awesome things that we've been able to create, and conversly, it'd be great to be able to reuse some awesome things created from elsewhere in the business.
 
