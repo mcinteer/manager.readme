@@ -65,9 +65,8 @@ I will provide you with an environment that encourages constructive thinking in 
 	- Maintaining a high level of communication and awareness across the pods
 	- Providing you with the right level of support. I want you to be challenged but feel supported.
 	- I want to lend a hand and help the wider Platform Engineering group (and Xero) succeed.
-
-- Looking out to the rest of the year and beyond - I want to continue to grow our team so that we can accomodate more of the asks from around the business without the team taking on more than we can reasonably achieve.
 - One main goal I want to achieve is to remove distractions and blockers for our team to allow us to build, maintain and support the best systems we can.
+- Looking out to the rest of the year and beyond, I want to continue to grow our team so that we can accomodate more of the asks from around the business without the team taking on more than we can reasonably achieve.
 - I'd also like to improve the communication our team has, both internally amongst ourselves and externally. It'd be great to be able to share some of the awesome things that we've been able to create, and conversly, it'd be great to be able to reuse some awesome things created from elsewhere in the business.
 
 
